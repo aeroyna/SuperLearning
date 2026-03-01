@@ -68,16 +68,6 @@ Enhance your workflow and productivity.
 
 ---
 
-## 🛠️ Projects
-
-Hands-on experience with real-world codebases and application development.
-
-### 🌐 Chromium Codebase
-Deep dive into the architecture, build system, and contribution workflow of the massive Chromium project.
-[**Explore Chromium**](projects/Chromium_Codebase/00_overview.md)
-
----
-
 ## 🧭 How to Navigate
 
 Each topic is structured with a clear learning path and an integrated Table of Contents within its main overview page. Just click on a topic above, and you'll be guided through the concepts in a logical sequence.

@@ -1,6 +1,6 @@
 # SuperLearning Repository
 
-[**➡️ Go to Learning Dashboard (SuperLearning.md)**](SuperLearning.md)
+[**➡️ Go to Learning Dashboard**](README.md)
 
 ---
 
