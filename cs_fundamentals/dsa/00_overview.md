@@ -216,11 +216,6 @@ This curriculum is designed for candidates preparing for:
 
 ---
 
-### [8. Coding Problems Database](coding_problems/00_all_problems.md)
-- A comprehensive collection of all practice problems with detailed descriptions and solutions.
-
----
-
 ## Quick Reference
 
 - **[DS/A Flowchart](Interview_Prep/dsa_flowchart.md)** - When to use each data structure/algorithm
